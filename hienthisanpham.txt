@@ -1,1 +1,2 @@
 file hiển thị sản phẩm của máy A
+nội dung chỉnh sửa của máy B
